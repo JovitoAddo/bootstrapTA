@@ -1,0 +1,4 @@
+01. kerangka untuk CSS yang di pakai untuk membantu mencepat pembuatan design CSS yang
+02. tidak, ada banyak pilihan di internet
+03. bootstrap, tailwind, bulma, foundation, dan lain nyan
+04. copy link dan script yang di website framework, lalu pasang di html. lalu pilih feature apa yang dibutuhkan, lalu jika ingin mengganti sesuatu lihat cara nya di dokumentasi
